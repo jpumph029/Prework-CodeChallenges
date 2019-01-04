@@ -14,7 +14,7 @@ An array of integers, and the number chosen.
 [6,4,4,1,3] , 4
 
 #### Sample Output
-![o](output\outputs.png)
+![show](output\outputs.png)
 
 <hr />
 
@@ -37,7 +37,7 @@ For example, 1997 is not a leap year, but 1996 is. 1900 is not a leap year, but 
 Note: This is not a trick problem. Edge cases do not need to be taken into consideration when creating a solution.
 
 ####Output
-![](\output\outputs.png)
+![up](output\outputs.png)
 
 <hr />
 
@@ -58,7 +58,7 @@ An array of integers (may not be sorted)
 [1,3,2]
 
 #### Sample Output
-![](\output\outputs.png)
+![please](\output\outputs.png)
 
 #### Explanation
 1 * 3 * 2 = 6 && 1 + 3 + 2 = 6
@@ -73,5 +73,5 @@ Given a matrix of integers. Return the sum of each row in a single dimensional a
 
 
 #### Sample Output
-![](\output\outputs.png)
+![why](output\outputs.png)
 
