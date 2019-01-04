@@ -14,7 +14,7 @@ An array of integers, and the number chosen.
 [6,4,4,1,3] , 4
 
 #### Sample Output
-![](output\outputs.png)
+![o](output\outputs.png)
 
 <hr />
 
